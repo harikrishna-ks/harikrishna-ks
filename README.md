@@ -1,277 +1,340 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hari%20Krishna&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,45:0B1F33,75:063B52,100:00D9FF&height=240&section=header&text=HARI%20KRISHNA&fontSize=52&fontColor=E8FBFF&animation=fadeIn&fontAlignY=35&desc=DEVELOPER%20OPERATING%20SYSTEM&descAlignY=58&descSize=18&descColor=36BCF7" width="100%" alt="Hari Krishna Developer Operating System"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=700&color=36BCF7&center=true&vCenter=true&width=800&lines=SYSTEM+INITIALIZED...;FULL+STACK+DEVELOPER;SOFTWARE+ENGINEERING+MODE+%5BONLINE%5D;BUILDING+%7C+LEARNING+%7C+SHIPPING;WELCOME+TO+HARI+KRISHNA+OS" alt="Animated typing introduction"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Building+Scalable+Applications;Backend+%7C+APIs+%7C+Databases;Always+Learning.+Always+Building.+%F0%9F%9A%80" />
+<br><br>
 
-<br/><br/>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/harikrishna-ks">
+<img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=36BCF7" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/harikrishna-ks?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-0B1220?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Repositories"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=36BCF7&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=harikrishna-ks&label=PROFILE%20VISITS&color=00D9FF&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-```text
-👋 Hi, I'm Hari Krishna
+<pre>
+╔══════════════════════════════════════════════════════════════════════╗
+║                    HARI KRISHNA // CORE SYSTEM                     ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   USER        :: harikrishna-ks                                     ║
+║   ROLE        :: FULL STACK DEVELOPER                               ║
+║   LOCATION    :: INDIA                                              ║
+║   STATUS      :: ● ONLINE                                           ║
+║   MODE        :: BUILDING                                           ║
+║   MISSION     :: TURNING IDEAS INTO SOFTWARE                        ║
+║                                                                      ║
+║   PRIMARY     :: JAVA • PYTHON • JAVASCRIPT                         ║
+║   BACKEND     :: FASTAPI • NODE.JS • EXPRESS                        ║
+║   FRONTEND    :: REACT • HTML • CSS                                 ║
+║   DATABASE    :: MONGODB • MYSQL                                    ║
+║   CLOUD       :: AWS • AZURE                                        ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+</pre>
 
-💻 Full Stack Developer & Software Engineering Enthusiast
-🚀 Passionate about building scalable and reliable applications
-🧠 Strong interest in Java, backend development and APIs
-🌐 Exploring modern frontend technologies
-🗄️ Working with SQL and NoSQL databases
-☁️ Learning cloud technologies and deployment
-🎯 Preparing to build production-ready software
-```
+</div>
+
+## `// SYSTEM TELEMETRY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=harikrishna-ks&show_icons=true&hide_border=true&bg_color=0B1220&title_color=36BCF7&icon_color=36BCF7&text_color=C9EFFF&rank_icon=github" height="175" alt="GitHub statistics"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harikrishna-ks&hide_border=true&background=0B1220&ring=36BCF7&fire=00D9FF&currStreakLabel=36BCF7&sideLabels=C9EFFF&dates=7C9AAF&currStreakNum=FFFFFF&sideNums=FFFFFF" height="175" alt="GitHub streak"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishna-ks&layout=compact&hide_border=true&bg_color=0B1220&title_color=36BCF7&text_color=C9EFFF&langs_count=8" height="175" alt="Most used programming languages"/>
+
+</div>
 
 ---
 
-## ⚡ What I Build
+## `// TECHNOLOGY CONSTELLATION`
+
+<div align="center">
+
+### `CORE LANGUAGE NODES`
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c&theme=dark" alt="Java Python JavaScript C"/>
+
+<br><br>
+
+### `FRONTEND SYSTEMS`
+
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark" alt="HTML CSS React Bootstrap"/>
+
+<br><br>
+
+### `BACKEND SYSTEMS`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Node.js Express FastAPI"/>
+
+<br><br>
+
+### `DATABASE SYSTEMS`
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="MongoDB MySQL"/>
+
+<br><br>
+
+### `CLOUD & INFRASTRUCTURE`
+
+<img src="https://skillicons.dev/icons?i=aws,azure,linux,docker&theme=dark" alt="AWS Azure Linux Docker"/>
+
+<br><br>
+
+### `DEVELOPER TOOLCHAIN`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git GitHub VS Code Postman"/>
+
+</div>
+
+---
+
+## `// PROJECT COMMAND CENTER`
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
 
-### 🌐 Full Stack Applications
+<td width="50%" valign="top">
 
-Building complete applications with modern frontend, backend and database technologies.
+<h3>◈ DECCAN-AID</h3>
+
+<b>STATUS :: ACTIVE DEVELOPMENT</b>
+
+<br><br>
+
+Full-stack application designed to provide a practical digital solution using a modern application architecture.
+
+<br><br>
+
+<b>TECH STACK</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=flutter,fastapi,mongodb&theme=dark" height="45" alt="Flutter FastAPI MongoDB"/>
+
+<br><br>
+
+<a href="https://github.com/harikrishna-ks/Deccan-Aid">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-36BCF7?style=for-the-badge&logo=github&logoColor=061018" alt="View Deccan Aid"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>◈ GITHUB DEVELOPMENT LAB</h3>
+
+<b>STATUS :: ONLINE</b>
+
+<br><br>
+
+Coding practice, experiments and software engineering projects focused on continuous improvement.
+
+<br><br>
+
+<b>CORE FOCUS</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=java,python,react,git&theme=dark" height="45" alt="Java Python React Git"/>
+
+<br><br>
+
+<a href="https://github.com/harikrishna-ks?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL-36BCF7?style=for-the-badge&logo=github&logoColor=061018" alt="Explore repositories"/>
+</a>
 
 </td>
 
-<td width="50%">
-
-### ⚙️ Backend Systems
-
-Designing REST APIs, authentication systems and efficient backend architectures.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🗄️ Data-Driven Applications
-
-Working with SQL and NoSQL databases to create reliable data solutions.
-
-</td>
-
-<td width="50%">
-
-### ☁️ Cloud & Deployment
-
-Exploring cloud platforms, Linux environments, deployment and scalable infrastructure.
-
-</td>
 </tr>
 </table>
 
----
-
-# 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c&perline=8"/>
-</p>
-
-### 🎨 Frontend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&perline=8"/>
-</p>
-
-### ⚙️ Backend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=8"/>
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=8"/>
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=azure,aws,linux,docker&perline=8"/>
-</p>
-
-### 🔧 Tools & Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=8"/>
-</p>
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## `// CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harikrishna-ks&bg_color=050B14&color=36BCF7&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="96%" alt="GitHub contribution activity graph"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=harikrishna-ks&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="90%" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+## `// CURRENT MISSION`
+
+<div align="center">
+
+<pre>
+┌────────────────────────────────────────────────────────────────────┐
+│                                                                    │
+│  FULL STACK DEVELOPMENT     █████████████████░░░   ACTIVE          │
+│                                                                    │
+│  BACKEND ENGINEERING        ████████████████░░░░   ACTIVE          │
+│                                                                    │
+│  DATA STRUCTURES            ██████████████░░░░░░   TRAINING        │
+│                                                                    │
+│  SYSTEM DESIGN              ███████████░░░░░░░░░   EXPLORING       │
+│                                                                    │
+│  CLOUD + DEVOPS             ██████████░░░░░░░░░░   LEARNING        │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
+</pre>
+
+<sub>Progress bars represent current learning focus, not verified proficiency.</sub>
+
+</div>
+
+---
+
+## `// TERMINAL SESSION`
+
+<div align="center">
+
+<pre>
+┌──[ hari@developer-os ]──[ ~/workspace ]────────────────────────────┐
+│                                                                    │
+│ $ whoami                                                           │
+│ harikrishna-ks                                                     │
+│                                                                    │
+│ $ ./developer --status                                             │
+│                                                                    │
+│ STATUS      : ONLINE                                               │
+│ MODE        : BUILDING                                             │
+│ ENVIRONMENT : JAVA / PYTHON / JAVASCRIPT                           │
+│                                                                    │
+│ $ ./developer --mission                                            │
+│                                                                    │
+│ [01] BUILD                                                         │
+│ [02] LEARN                                                         │
+│ [03] EXPERIMENT                                                    │
+│ [04] SOLVE                                                         │
+│ [05] SHIP                                                          │
+│                                                                    │
+│ $ echo $PHILOSOPHY                                                 │
+│ "Build something worth using."                                     │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
+</pre>
+
+</div>
+
+---
+
+## `// ENGINEERING SIGNAL`
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
 
-### 🏥 Deccan Aid
+<td align="center" width="33%">
 
-A full-stack application designed to solve real-world problems through a modern application architecture.
+<h3>01</h3>
 
-**Tech:** Flutter • FastAPI • MongoDB
+<b>BUILD</b>
 
-<a href="https://github.com/YOUR_USERNAME/Deccan-Aid">
-<img src="https://img.shields.io/badge/View%20Project-36BCF7?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br><br>
+
+Real projects over theoretical knowledge.
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>02</h3>
+
+<b>SOLVE</b>
+
+<br><br>
+
+Break complex problems into simple systems.
 
 </td>
 
-<td width="50%">
+<td align="center" width="33%">
 
-### 🚀 Project Two
+<h3>03</h3>
 
-A scalable software application focused on solving a practical problem using modern development technologies.
+<b>EVOLVE</b>
 
-**Tech:** Java • Spring Boot • MySQL
+<br><br>
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT">
-<img src="https://img.shields.io/badge/View%20Project-36BCF7?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+Learn continuously and improve every iteration.
 
 </td>
+
 </tr>
 </table>
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+## `// NETWORK TERMINAL`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
+<pre>
+╔══════════════════════════════════════════════════════════════════╗
+║                     ESTABLISH CONNECTION                         ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   GITHUB      →  github.com/harikrishna-ks                       ║
+║                                                                  ║
+║   STATUS      →  READY FOR CONNECTION                            ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
 
-</div>
+<br>
 
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=1a1b27&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-```text
-☑ Strengthening Data Structures & Algorithms
-☑ Improving Java & Backend Development
-☑ Building Full Stack Applications
-☑ Learning Cloud & DevOps
-☑ Developing Production-Ready APIs
-☑ Preparing for Software Engineering Roles
-```
-
----
-
-# 🌱 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-Advanced-orange?style=for-the-badge&logo=openjdk"/>
-<img src="https://img.shields.io/badge/Backend-Development-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud-Azure-0089D6?style=for-the-badge&logo=microsoftazure"/>
-<img src="https://img.shields.io/badge/DevOps-Linux-black?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/APIs-REST-green?style=for-the-badge"/>
-
-</p>
-
----
-
-# 💡 Developer Philosophy
-
-<div align="center">
-
-### **"Build. Break. Learn. Improve. Repeat."**
-
-I believe the best way to learn software engineering is to
-**build real projects, solve real problems and continuously improve.**
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/harikrishna-ks">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-0B1220?style=for-the-badge&logo=github&logoColor=36BCF7" alt="Follow on GitHub"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/harikrishna-ks?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-0B1220?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Explore repositories"/>
 </a>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-### ⭐ If you find my projects interesting, consider giving them a star!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,45:063B52,75:0B1F33,100:050B14&height=170&section=footer&animation=fadeIn" width="100%" alt="Animated futuristic footer"/>
 
-</div>
+<h3>HARI KRISHNA // SYSTEM ONLINE</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=140&section=footer" width="100%"/>
+<pre>
+BUILD  •  LEARN  •  EXPERIMENT  •  SHIP
+</pre>
 
-<div align="center">
-
-**© 2026 Hari Krishna • Built with passion & code 🚀**
+<sub>© 2026 Hari Krishna · Developer Operating System</sub>
 
 </div>
