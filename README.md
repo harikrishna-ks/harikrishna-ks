@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hari%20Krishna&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Harikrishna&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
 <br/>
 
@@ -30,7 +30,7 @@
 ## 👨‍💻 About Me
 
 ```text
-👋 Hi, I'm Hari Krishna
+👋 Hi, I'm Harikrishna
 
 💻 Full Stack Developer & Software Engineering Enthusiast
 🚀 Passionate about building scalable and reliable applications
