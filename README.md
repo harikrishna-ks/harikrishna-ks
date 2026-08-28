@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Java+%7C+HTML+7%+CSS+%7C+JavaScript;Building+Scalable+Applications;Backend+%7C+APIs+%7C+Databases;Always+Learning.+Always+Building.+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Java+%7C+HTML+7%C+CSS+%7C+JavaScript;Building+Scalable+Applications;Backend+%7C+APIs+%7C+Databases;Always+Learning.+Always+Building.+%F0%9F%9A%80" />
 
 <br/><br/>
 
